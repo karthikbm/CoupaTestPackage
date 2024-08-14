@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<services>
+    <cloudstreamsCollectionKeys serviceName="WmCloudStreams.RestVS">
+        <servicesKeys>
+            <keyDetails collectionKey="CCS:Coupa_OauthQueryAcc" connectorServiceName="CCS:Coupa_OauthQueryAcc"/>
+            <keyDetails collectionKey="CCS:Coupa_QueryAcc" connectorServiceName="CCS:Coupa_QueryAcc"/>
+        </servicesKeys>
+    </cloudstreamsCollectionKeys>
+</services>
